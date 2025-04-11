@@ -9,7 +9,7 @@ This project demonstrates a complete data analytics pipeline for Blinkit (a quic
 ## 📌 Project Highlights
 
 - 🔧 **Data Cleaning & Integration** – MySQL  
-- 📊 **Exploratory Data Analysis** – Python (Pandas, Matplotlib, Seaborn)  
+- 📊 **Exploratory Data Analysis** – Python (Pandas, Matplotlib)  
 - 📈 **Interactive Dashboard** – Power BI  
 
 
